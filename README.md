@@ -31,6 +31,8 @@ this project conatains 3 parts:
 
 ## How to run
 in node terminal run these codes
-* install express body-parser cors
-* npm server.js
+* npm install 
+  *"to install express body-parser cors"*
+* npm start
+  *"to start the server"*
 * open the website on local server with the URL *localhost:8000*
