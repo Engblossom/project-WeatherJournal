@@ -4,11 +4,11 @@
 This project is a simple example of using a weather API in creating websites
 
 ## technologies used
-*JavaScript
-*HTML
-*CSS
-*Node.js
-*express, body-parser ,and cors dependencies
+* JavaScript
+* HTML
+* CSS
+* Node.js
+* express, body-parser ,and cors dependencies
 
 ## Instructions
 * open the server file to at local host 8000
@@ -18,11 +18,13 @@ This project is a simple example of using a weather API in creating websites
 
 ## sections of the project
 this project conatains 3 parts:
-* in the website folder you'll find:
+*in the website folder you'll find:*
 1. Index file, the HTML of the website
 2. CSS sheet file contains styles.css style sheet, linked in the HTML file header
 3. app.js , Javascript file,linked at the bottom of <Body> tag in HTML file
-4. server.js, Javascript file that replicates a server and server endpoint
+*in the main folder you'll find:*
+5. server.js, Javascript file that replicates a server and server endpoint
+6. ReadMe file
 
 ## instructions 
 * click on the navigation items at the top of screen to view each post
@@ -31,4 +33,4 @@ this project conatains 3 parts:
 in node terminal run these codes
 * install express body-parser cors
 * npm server.js
-* open the website on local server with the URL *localhost:8000
+* open the website on local server with the URL *localhost:8000*
