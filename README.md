@@ -23,8 +23,8 @@ this project conatains 3 parts:
 2. CSS sheet file contains styles.css style sheet, linked in the HTML file header
 3. app.js , Javascript file,linked at the bottom of <Body> tag in HTML file
 * *in the main folder you'll find:*
-5. server.js, Javascript file that replicates a server and server endpoint
-6. ReadMe file
+4. server.js, Javascript file that replicates a server and server endpoint
+5. ReadMe file
 
 ## instructions 
 * click on the navigation items at the top of screen to view each post
