@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(112, 191, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    color: rgb(2, 31, 94);
+    font-size: 36px;
+}
+h2{
+    color: rgb(2, 31, 94);
+    font-size: 24px;
+}
+.container{
+    margin: 2em;
+}
+
+button{
+
+    background: #3b4a6b;
+    color: #f0d43a;
+    font-size: 1em;
+    padding: 0.5em;
+    border: none;
+    box-shadow: 2px 4px 5px #444;
+}
+
+.entryHolder{
+    background: rgba(59, 74, 107, .4);
+    width: 50%;
+    margin-top: 2em;
+    display: block;
+    min-height: 10em;
+}
