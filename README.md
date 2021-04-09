@@ -18,11 +18,11 @@ This project is a simple example of using a weather API in creating websites
 
 ## sections of the project
 this project conatains 3 parts:
-*in the website folder you'll find:*
+* *in the website folder you'll find:*
 1. Index file, the HTML of the website
 2. CSS sheet file contains styles.css style sheet, linked in the HTML file header
 3. app.js , Javascript file,linked at the bottom of <Body> tag in HTML file
-*in the main folder you'll find:*
+* *in the main folder you'll find:*
 5. server.js, Javascript file that replicates a server and server endpoint
 6. ReadMe file
 
